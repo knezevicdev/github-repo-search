@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon renders snapshots 1`] = `
+<ContextProvider
+  value={
+    Store {
+      "allRepositories": Array [],
+      "hasError": false,
+      "isLoading": true,
+      "searchText": "",
+      "showingAll": false,
+      "typeFitler": "all",
+    }
+  }
+>
+  <Component
+    type="public"
+  />
+</ContextProvider>
+`;

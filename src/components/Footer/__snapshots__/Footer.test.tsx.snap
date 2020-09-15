@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer renders snapshots 1`] = `
+<ContextProvider
+  value={
+    Store {
+      "allRepositories": Array [],
+      "hasError": false,
+      "isLoading": true,
+      "searchText": "",
+      "showingAll": false,
+      "typeFitler": "all",
+    }
+  }
+>
+  <Footer />
+</ContextProvider>
+`;
